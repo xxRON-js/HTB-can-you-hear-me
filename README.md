@@ -2,20 +2,19 @@
 
 ## Challenge Overview
 
-Welcome to the "Can You Hear Me?" challenge on Hack The Box. This challenge is designed to test your skills in [mention specific skills/topics relevant to the challenge, e.g., web exploitation, cryptography, steganography].
+Welcome to the "Can You Hear Me?" challenge on Hack The Box. This challenge is designed to test your skills in research and protocol identity
 
 ## Challenge Details
 
 - **Name:** Can You Hear Me?
-- **Category:** [Specify the challenge category, e.g., Web Exploitation]
-- **Points:** [Specify the points awarded for solving the challenge]
-- **Difficulty:** [Specify the difficulty level, e.g., Easy/Medium/Hard]
-- **Author:** [Name of the challenge author]
+- **Category:** Hardware
+- **Points:** 20
+- **Difficulty:** Easy
+- **Author:** Me haha
 
 ## Challenge Description
 
-[Provide a brief description of the challenge. What are participants required to do? Any hints or initial guidance?]
-
+we got some mystery signal and we need you help here with decode it. help us keep our radio bands clean from pirates
 ## Getting Started
 
 To start the challenge, follow these steps:
