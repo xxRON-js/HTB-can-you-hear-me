@@ -25,7 +25,7 @@ To start the challenge, follow these steps:
 
 ## Resources
 
-- (https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
+- https://www.sigidwiki.com/wiki/Signal_Identification_Guide
 ## Flag Format
 
 Flag format: `HTB{...}`
